@@ -1,0 +1,7 @@
+INVOICE
+Vendor: Beta Ltd
+Invoice No: INV-B-77
+Invoice Date: 10 Sep 2026
+Description: Office supplies
+Total Due: $1,275.00
+Payment Due Date: 10 Oct 2026

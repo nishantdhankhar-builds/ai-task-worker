@@ -1,0 +1,7 @@
+INVOICE
+Vendor: Acme Corp
+Invoice No: INV-A-355
+Invoice Date: 18 Sep 2026
+Description: Cloud hosting - August + support add-on
+Total Due: $4,200.50
+Payment Due Date: 18 Oct 2026

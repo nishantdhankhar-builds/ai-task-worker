@@ -1,0 +1,7 @@
+INVOICE
+Vendor: Beta Ltd
+Invoice No: INV-B-81
+Invoice Date: 01 Oct 2026
+Description: Printer maintenance
+Total Due: $860.75
+Payment Due Date: 31 Oct 2026
